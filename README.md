@@ -17,6 +17,13 @@ I've developed a Spring Boot application utilizing Java EE architecture, encompa
 - **DAO (Data Access Object) Layer:** Responsible for interacting with the database, performing CRUD operations, and implementing data access logic.
   
 - **Database Connectivity:** Integrated with PostgreSQL database using Spring Data JPA for seamless data access and manipulation.
+
+  **Completed tasks**
+  1) Category CRUD operation.
+  2) Product CRUD operation.
+  3) Relation between Category-Products should have one-to-many relation. (One category can have multiple products)
+  
+    Delay Notice - Project Submission without Pagination Due to Deadline Constraints.
   
 - **API Endpoints:**
   - **Category API:** Handles operations related to categories, including creation, retrieval, update, and deletion.
