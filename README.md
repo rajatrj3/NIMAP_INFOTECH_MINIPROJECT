@@ -62,14 +62,15 @@ I've developed a Spring Boot application utilizing Java EE architecture, encompa
 
 
 
-![WhatsApp Image 2024-05-13 at 23 09 47_103ca186](https://github.com/rajatrj3/Nimap_miniProject/assets/73461409/1eff3ff4-dc9f-424a-bf55-7da7b2969ad0)
+![CategoryJava](https://github.com/rajatrj3/NIMAP_INFOTECH_MINIPROJECT/assets/73461409/a391eb36-0a77-4d4a-ac18-259a637f2b59)
 
 
 **Database Table of Product Entity after running the Application**
 
 
 
-![image](https://github.com/rajatrj3/Nimap_miniProject/assets/73461409/0bc2dbef-fa38-44ab-bdb6-6070dca96e4c)
+![Produtjava](https://github.com/rajatrj3/NIMAP_INFOTECH_MINIPROJECT/assets/73461409/b0779159-b4ac-466c-a304-e794643031a7)
+
 
 
 
@@ -78,11 +79,14 @@ I've developed a Spring Boot application utilizing Java EE architecture, encompa
 
 
 
-![WhatsApp Image 2024-05-13 at 23 10 41_d77182ba](https://github.com/rajatrj3/Nimap_miniProject/assets/73461409/f09aebf5-4dd8-48ce-8c8c-6666ff15861f)
+![JPACATEGORY](https://github.com/rajatrj3/NIMAP_INFOTECH_MINIPROJECT/assets/73461409/34d86887-a1b3-453f-8223-7b621dcc11f5)
 
 
 
-![WhatsApp Image 2024-05-13 at 23 11 35_6bca6186](https://github.com/rajatrj3/Nimap_miniProject/assets/73461409/ea5bedd9-7701-4ed8-a8d4-c51165b15358)
+
+
+![JPAPRODUCT](https://github.com/rajatrj3/NIMAP_INFOTECH_MINIPROJECT/assets/73461409/b8756436-635d-48e0-9cce-e5f37ecf89d4)
+
 
 
 
