@@ -11,7 +11,7 @@ Rajat Jadhav         jadhavrajat2001@gmail.com
   2) Product CRUD operation.
   3) Relation between Category-Products should have one-to-many relation. (One category can have multiple products)
   
-    Delay Notice - Project Submission without Pagination Due to Deadline.
+   
   
 
 I've developed a Spring Boot application utilizing Java EE architecture, encompassing various layers such as controller, presentation, service, DAO, and database connectivity.
